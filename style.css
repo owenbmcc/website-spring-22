@@ -1,0 +1,38 @@
+/* this a comment  */
+
+body {
+	background-color: #E6C3EE;
+	font-family: "Gill Sans", sans-serif;
+	color: #fff2a4;
+	/*text-align: center;*/
+}
+
+h1 {
+	font-family: Georgia, serif;
+}
+
+/* # is for id */
+#container {
+	margin: 100px auto;
+	/*width: 600px;*/
+	min-width: 400px;
+	max-width: 600px;
+}
+
+/* . is for class */
+img.link {
+	/*width: 200px;*/
+	width: 100%;
+	border: 4mm ridge rgba(211, 220, 50, .6);
+}
+
+#choices {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 10px;
+}
+
+
+
+
+
