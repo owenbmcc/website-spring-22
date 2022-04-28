@@ -23,7 +23,7 @@ h1 {
 img.link {
 	/*width: 200px;*/
 	width: 100%;
-	border: 4mm ridge rgba(211, 220, 50, .6);
+	border: 4px ridge gold;
 }
 
 #choices {
